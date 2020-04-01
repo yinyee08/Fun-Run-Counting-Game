@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852086304277",
+    "firebase_url": "https://fun-run-counting-game.firebaseio.com",
+    "project_id": "fun-run-counting-game",
+    "storage_bucket": "fun-run-counting-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852086304277:android:b2cec547122718ce62e81c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FunRun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852086304277-onrcr2jmni8q9feb514uj2a16n8298vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7F4gzoJ4GzLNV12wTM0ZdkKC0N9p4qrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852086304277-onrcr2jmni8q9feb514uj2a16n8298vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
